@@ -65,6 +65,11 @@ public class Sort {
         System.out.println("比较的次数："+times);
     }
 
+    //快速排序
+    public static void quickSort(int[] a){
+
+    }
+
     public static boolean isOrdered(int[] a) {
         int orderCount = 0;
         int times = 0;
