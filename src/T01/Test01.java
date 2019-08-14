@@ -26,7 +26,7 @@ public class Test01 {
     }
 
     public static void main(String[] args) {
-        t01(4);
+        t01(20);
     }
 
 }
